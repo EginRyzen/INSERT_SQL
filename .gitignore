@@ -1,0 +1,7 @@
+# Data file berukuran besar
+data.csv
+*.csv
+
+# Python cache & logs
+__pycache__/
+*.log
