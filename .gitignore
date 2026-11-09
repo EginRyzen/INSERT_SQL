@@ -1,6 +1,8 @@
 # Data file berukuran besar
 data.csv
 *.csv
+*.zip
+data.csv.zip
 
 # Python cache & logs
 __pycache__/
